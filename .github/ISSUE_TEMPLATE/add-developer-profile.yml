@@ -6,7 +6,7 @@ body:
   - type: input
     id: name
     attributes:
-      label: Full Name
+      label: Full name
       placeholder: "Jane Doe"
     validations:
       required: true
@@ -32,19 +32,19 @@ body:
   - type: input
     id: github
     attributes:
-      label: GitHub Profile URL
+      label: GitHub profile URL
       placeholder: "https://github.com/yourhandle"
 
   - type: input
     id: X
     attributes:
-      label: X(Twitter) Profile URL 
+      label: X(Twitter) profile URL 
       placeholder: "https://linkedin.com/in/yourprofile"
 
   - type: input
     id: linkedin
     attributes:
-      label: LinkedIn Profile URL 
+      label: LinkedIn profile URL 
       placeholder: "https://linkedin.com/in/yourprofile"
 
   - type: input
@@ -62,7 +62,7 @@ body:
   - type: textarea
     id: bio
     attributes:
-      label: Short Bio
+      label: Short bio
       placeholder: "Tell us about your background and experience with Effect..."
     validations:
       required: true
