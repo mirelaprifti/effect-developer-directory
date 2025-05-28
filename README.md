@@ -1,37 +1,32 @@
 # Effect Developer Directory
 A community-powered directory of developers who use Effect and are available for hire.
 
----
-
+&nbsp;
 ## For Developers: Add Yourself
 
-1. [Open a new issue](https://github.com/mirelaprifti/effect-developer-directory/issues/new?assignees=&labels=developer-submission&template=add-developer-profile.yml) using the **“Add Developer Profile”** template.
+1. **Open a new issue** using the [Add Developer Profile](https://github.com/mirelaprifti/effect-developer-directory/issues/new?assignees=&labels=developer-submission&template=add-developer-profile.yml) template.
 2. Fill in your:
    - Name
    - Location (timezone preferred)
    - Availability (freelance, full-time, etc.)
-   - GitHub / LinkedIn / website links
+   - GitHub / LinkedIn / Other relevant links
    - Short bio
-
-  ---
-
+  
+&nbsp;
   ## For Companies: Post a Job
 
 You can:
-- [Open a new issue](https://github.com/mirelaprifti/effect-developer-directory/issues/new?template=post-a-job.yaml) using the **“Post a Job”** template
+- **Open a new issue** using the [Post a Job](https://github.com/mirelaprifti/effect-developer-directory/issues/new?template=post-a-job.yaml) template
 - Share job listings where Effect is part of the stack
-- We’ll keep these visible under `jobs/` or in the Discussions tab
 
----
-
+&nbsp;
 ## Disclaimer
 
 This is a public community-maintained resource.
 Inclusion does not imply endorsement or vetting by the Effect maintainers.
 Please do your own due diligence when hiring or offering services.
 
----
-
+&nbsp;
 ## Join the Effect Community
 
 - [Join Discord](https://discord.gg/effect-ts)
