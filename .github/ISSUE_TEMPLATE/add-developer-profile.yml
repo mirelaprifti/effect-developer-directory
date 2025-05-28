@@ -36,7 +36,7 @@ body:
       placeholder: "https://github.com/yourhandle"
 
   - type: input
-    id: X(Twitter)
+    id: X
     attributes:
       label: X(Twitter) Profile URL 
       placeholder: "https://linkedin.com/in/yourprofile"
@@ -54,7 +54,7 @@ body:
       placeholder: "@discord handle"
 
   - type: input
-    id: portfolio/other
+    id: other
     attributes:
       label: Personal website, portfolio, or other projects
       placeholder: "https://yourwebsite.dev"
