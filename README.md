@@ -18,7 +18,7 @@ A community-powered directory of developers who use Effect and are available for
   ## For Companies: Post a Job
 
 You can:
-- [Open a new issue]() using the **“Post a Job”** template
+- [Open a new issue](https://github.com/mirelaprifti/effect-developer-directory/issues/new?template=post-a-job.yaml) using the **“Post a Job”** template
 - Share job listings where Effect is part of the stack
 - We’ll keep these visible under `jobs/` or in the Discussions tab
 
