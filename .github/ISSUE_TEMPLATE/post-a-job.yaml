@@ -32,7 +32,7 @@ body:
   - type: textarea
     id: description
     attributes:
-      label: Job Description
+      label: Job description
       placeholder: "Describe the responsibilities, requirements, and how Effect is used..."
     validations:
       required: true
@@ -40,7 +40,7 @@ body:
   - type: input
     id: apply
     attributes:
-      label: Link to Apply
+      label: Link to apply or other contact
       placeholder: "https://jobs.company.com/effect-role"
     validations:
       required: true
