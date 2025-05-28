@@ -5,7 +5,7 @@ A community-powered directory of developers who use Effect and are available for
 
 ## For Developers: Add Yourself
 
-1. [Open a new issue]() using the **“Add Developer Profile”** template.
+1. [Open a new issue](https://github.com/mirelaprifti/effect-developer-directory/issues/new?assignees=&labels=developer-submission&template=add-developer-profile.yml) using the **“Add Developer Profile”** template.
 2. Fill in your:
    - Name
    - Location (timezone preferred)
