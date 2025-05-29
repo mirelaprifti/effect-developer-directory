@@ -5,7 +5,7 @@ A community-powered directory of developers who use Effect and are available for
 &nbsp;
 ## For Developers: Add Yourself
 
-1. **Open a new issue** using the [Add Developer Profile](https://github.com/mirelaprifti/effect-developer-directory/issues/new?assignees=&labels=developer-submission&template=add-developer-profile.yml) template.
+1. [Add your profile by opening a new issue](https://github.com/mirelaprifti/effect-developer-directory/issues/new?assignees=&labels=developer-submission&template=add-developer-profile.yml).
 2. Fill in your:
    - Name
    - Location (timezone preferred)
@@ -16,7 +16,7 @@ A community-powered directory of developers who use Effect and are available for
 &nbsp;
   ## For Companies: Post a Job
 
-1. **Open a new issue** using the [Post a Job](https://github.com/mirelaprifti/effect-developer-directory/issues/new?template=post-a-job.yaml) template.
+1. [Post a job opening by opening a new issue](https://github.com/mirelaprifti/effect-developer-directory/issues/new?template=post-a-job.yaml).
 2. Share job listings where Effect is part of the tech stack.
 
 &nbsp;
