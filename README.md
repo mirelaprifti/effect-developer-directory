@@ -26,8 +26,7 @@ This is a public community-maintained resource.
 Inclusion does not imply endorsement or vetting by the Effect maintainers.
 Please do your own due diligence when hiring or offering services.
 
-&nbsp;
----
+
 &nbsp;
 ## Join the Effect Community
 
