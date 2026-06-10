@@ -14,12 +14,12 @@ body:
       required: true
 
   - type: upload
-  id: company-logo
-  attributes:
-    label: Company logo
-    description: Optional — upload your company logo.
-  validations:
-    required: false
+    id: company-logo
+    attributes:
+      label: Company logo
+      description: Upload your company logo.
+    validations:
+      required: false
 
   - type: input
     id: role
