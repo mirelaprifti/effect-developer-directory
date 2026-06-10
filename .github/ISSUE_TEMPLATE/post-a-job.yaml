@@ -17,7 +17,6 @@ body:
     id: company-logo
     attributes:
       label: Company logo
-      description: Upload your company logo.
     validations:
       required: false
 
